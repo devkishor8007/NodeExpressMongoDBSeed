@@ -1,0 +1,17 @@
+[
+    {
+        "sid": 1,
+        "authorname": "Oscar Wilde ",
+        "msg": "Be yourself; everyone else is already taken"
+    },
+    {
+        "sid": 2,
+        "authorname": "Marcus Tullius Cicero",
+        "msg": "A room without books is like a body without a soul."
+    },
+    {
+        "sid": 3,
+        "authorname": "Frank Zappa",
+        "msg": "So many books, so little time."
+    }
+]
